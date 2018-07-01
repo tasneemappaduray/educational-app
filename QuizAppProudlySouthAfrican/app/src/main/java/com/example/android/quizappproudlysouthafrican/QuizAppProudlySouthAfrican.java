@@ -143,8 +143,8 @@ public class QuizAppProudlySouthAfrican extends AppCompatActivity {
         }
 
         //Toast message will display how many questions was correctly answered
-        Toast.makeText(this, "Whoo hoo! You've got " + score + " correct answers.", Toast.LENGTH_LONG).show();
-        message += "\n You got " + score + " correct answer.";
+        Toast.makeText(this, "Whoo hoo! You answered " + score + " questions correctly.", Toast.LENGTH_LONG).show();
+        message += "\n You've got " + score + " correct answer.";
         return message;
     }
 }

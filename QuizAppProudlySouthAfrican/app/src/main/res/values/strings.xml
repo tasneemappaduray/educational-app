@@ -21,6 +21,23 @@
     <string name="questionThreeOptionTwo">Lesotho</string>
     <string name="questionThreeOptionThree">Mpumalanga</string>
     <string name="questionThreeOptionFour">Free State</string>
+    <string name="questionFour">Question 4: </string>
+    <string name="questionFourText">How many capital cities are there in South Africa? </string>
+    <string name="questionFourOptionOne">1</string>
+    <string name="questionFourOptionTwo">2</string>
+    <string name="questionFourOptionThree">3</string>
+    <string name="questionFourOptionFour">4</string>
+    <string name="questionFive">Question 5: </string>
+    <string name="questionFiveText">Select all the languages that appear on the R200 note?</string>
+    <string name="questionFiveOptionOne">English</string>
+    <string name="questionFiveOptionTwo">Afrikaans</string>
+    <string name="questionFiveOptionThree">Zulu</string>
+    <string name="questionFiveOptionFour">Sotho</string>
+    <string name="questionSix">Question 6: </string>
+    <string name="questionSixText">What currency is used in South Africa? </string>
+    <string name="displayMessage">Press the button below to reveal your score</string>
+    <string name="submitButton">Submit</string>
+
 
     <!-- Name for answers summary.
       It will be shown in the format of "Name: Amy" where Amy is the

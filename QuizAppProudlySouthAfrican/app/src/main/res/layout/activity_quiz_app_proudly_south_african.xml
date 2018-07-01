@@ -235,7 +235,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Question 4:"
+                    android:text="@string/questionFour"
                     android:textColor="#000000"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -245,7 +245,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
                     android:layout_marginTop="10dp"
-                    android:text="How many capital cities are there in South Africa?"
+                    android:text="@string/questionFourText"
                     android:textColor="#000000"
                     android:textSize="15sp"
                     android:textStyle="bold" />
@@ -253,23 +253,23 @@
                 <RadioButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="1" />
+                    android:text="@string/questionFourOptionOne" />
 
                 <RadioButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="2" />
+                    android:text="@string/questionFourOptionTwo" />
 
                 <RadioButton
                     android:id="@+id/question_4_option_3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="3" />
+                    android:text="@string/questionFourOptionThree" />
 
                 <RadioButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="4" />
+                    android:text="@string/questionFourOptionFour" />
 
             </RadioGroup>
 
@@ -290,7 +290,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="Question 5:"
+                android:text="@string/questionFive"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -301,7 +301,7 @@
                 android:layout_marginBottom="10dp"
                 android:layout_marginTop="10dp"
                 android:gravity="center_horizontal"
-                android:text="Select all the languages that appear on the R200 note?"
+                android:text="@string/questionFiveText"
                 android:textColor="#000000"
                 android:textSize="15sp"
                 android:textStyle="bold" />
@@ -312,25 +312,25 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:paddingLeft="24dp"
-                android:text="English" />
+                android:text="@string/questionFiveOptionOne" />
 
             <CheckBox
                 android:id="@+id/question_5_option_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Mandarin" />
+                android:text="@string/questionFiveOptionTwo" />
 
             <CheckBox
                 android:id="@+id/question_5_option_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Zulu" />
+                android:text="@string/questionFiveOptionThree" />
 
             <CheckBox
                 android:id="@+id/question_5_option_4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Sotho" />
+                android:text="@string/questionFiveOptionFour" />
 
         </LinearLayout>
 
@@ -348,7 +348,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="Question 6:"
+                android:text="@string/questionSix"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -358,7 +358,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="16dp"
-                android:text="What currency is used in South Africa?"
+                android:text="@string/questionSixText"
                 android:textColor="#000000"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -386,14 +386,14 @@
             android:id="@+id/display_message_text_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginLeft="18dp"
+            android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
             android:gravity="center_horizontal"
             android:shadowColor="#FF5722"
             android:shadowDx="2.0"
             android:shadowDy="2.0"
             android:shadowRadius="2.0"
-            android:text="Press the button below to reveal your score"
+            android:text="@string/displayMessage"
             android:textColor="#6D4C41"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -406,7 +406,7 @@
             android:layout_marginBottom="16dp"
             android:layout_marginTop="16dp"
             android:onClick="submitButton"
-            android:text="Submit" />
+            android:text="@string/submitButton" />
 
 
     </LinearLayout>
