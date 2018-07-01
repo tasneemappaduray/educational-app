@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Quiz App Proudly South African</string>
+    <string name="country">Know Your Country!</string>
+    <string name="headerText">Below are 10 questions about South Africa. Select one correct answer. Press the score button to determine your results.</string>
+    <string name="questionOne">Question 1: </string>
+    <string name="questionOneText">Who is the current president of South Africa?</string>
+    <string name="questionOneOptionOne">Jacob Zuma</string>
+    <string name="questionOneOptionTwo">Nelson Mandela</string>
+    <string name="questionOneOptionThree">Cyril Ramaphosa</string>
+    <string name="questionOneOptionFour">Thabo Mbeki</string>
+    <string name="questionTwo">Question 2: </string>
+    <string name="questionTwoText">How many provinces are there in South Africa?</string>
+    <string name="questionTwoOptionOne">7</string>
+    <string name="questionTwoOptionTwo">8</string>
+    <string name="questionTwoOptionThree">9</string>
+    <string name="questionTwoOptionFour">10</string>
+    <string name="questionThree">Question 3: </string>
+    <string name="questionThreeText">Which is not a province in South Africa? </string>
+    <string name="questionThreeOptionOne">Limpopo</string>
+    <string name="questionThreeOptionTwo">Lesotho</string>
+    <string name="questionThreeOptionThree">Mpumalanga</string>
+    <string name="questionThreeOptionFour">Free State</string>
+
+    <!-- Name for answers summary.
+      It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT = NONE]
+      -->
+    <string name="answers_summary_name">Name: <xliff:g id="name" example=" Amy">%s</xliff:g></string>
+</resources>

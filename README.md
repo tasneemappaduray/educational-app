@@ -1,2 +1,2 @@
 # educational-app
-A quiz app about South Africa
+A quiz app about South Africa V2

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize_of_title">22sp</dimen>
+    <dimen name="textSize_of_questions">25sp</dimen>
+    <dimen name="textSize_of_options">22sp</dimen>
+    <dimen name="introduction_layout_marginTop">16dp</dimen>
+    <dimen name="introduction_layout_marginBottom">16dp</dimen>
+    <dimen name="question_layout_marginBottom">8dp</dimen>
+    <dimen name="question_layout_marginLeft">16dp</dimen>
+    <dimen name="question_layout_marginRight">16dp</dimen>
+    <dimen name="options_layout_marginLeft">16dp</dimen>
+    <dimen name="margin_around_boxes">16dp</dimen>
+    <dimen name="checkbox_paddingLeft">24dp</dimen>
+    <dimen name="button_marginBottom">16dp</dimen>
+    <dimen name="button_textSize">20sp</dimen>
+    <dimen name="button_zero_width">0dp</dimen>
+
+    <dimen name="box_corner_radius">10dp</dimen>
+    <dimen name="box_boundary_width">3dp</dimen>
+    <dimen name="box_padding_left">15dp</dimen>
+    <dimen name="box_padding_top">15dp</dimen>
+    <dimen name="box_padding_right">15dp</dimen>
+    <dimen name="box_padding_bottom">15dp</dimen>
+
+    <dimen name="button_corner_radius">15dp</dimen>
+    <dimen name="button_padding_left">10dp</dimen>
+    <dimen name="button_padding_top">10dp</dimen>
+    <dimen name="button_padding_right">10dp</dimen>
+    <dimen name="button_padding_bottom">10dp</dimen>
+</resources>
